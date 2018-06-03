@@ -10,14 +10,13 @@
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 # == Description ==
-* 
+* Preparing
 
 # == Docs & Support ==
 * https://bcchloe.jp
 
 # == Features ==
-* 
-* 
+* Preparing
 
 # == Installation ==
 * Upload the plugin to the '/wp-content/plugins/' directory
@@ -29,8 +28,7 @@
 * Sorry.
 
 # == Frequently asked questions ==
-* 
-* 
+* Preparing
 
 # == Changelog ==
 * Upgrade notice
