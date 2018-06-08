@@ -6,7 +6,7 @@ Description: <strong>最近の投稿 Post ウィジットプラグイン & Tpoix
 Author: BcChloe
 Author URI: https://bcchloe.jp
 Text Domain: bcchloe-recent-widget
-Version: 1.7
+Version: 1.4
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
