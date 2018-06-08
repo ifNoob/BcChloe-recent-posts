@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BcChloe Recent Posts Widget
-Plugin URI: https://github.com/ifNoob/
+Plugin URI: https://github.com/ifNoob/BcChloe-recent-posts
 Description: <strong>最近の投稿 Post ウィジットプラグイン & Tpoix表示</strong> the portfolio posts from a selected category
 Author: BcChloe
 Author URI: https://bcchloe.jp
