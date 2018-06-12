@@ -2,10 +2,10 @@
 * Contributors: BcChloe
 * Donate link: https://github.com/ifNoob/BcChloe-recent-posts
 * Author URI: https://bcchloe.jp
-* Tags: 
-* Requires at least: 3.7.x
+* Tags: recent, posts
+* Requires at least: WP 3.7.x | PHP 7.2.x
 * Tested up to: 4.9.6
-* Stable tag: 1.4
+* Stable tag: 1.5
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,5 +60,6 @@
 * send any data to external servers;
 * use cookies.
 
-# 注意事項 このプラグイン有効後における個人情報取り扱いには配布者に対し何ら責任は問われません。
+# 取扱事項: このプラグインにおける何らかの損害について一切の責任を負わないものとし、また法的責任もありません。
+# 注意事項: このプラグイン有効後における個人情報取り扱いには配布者に対し何ら責任は問われません。
 # 免責事項: このプラグインの作成者は法的な背景を持っていません。
